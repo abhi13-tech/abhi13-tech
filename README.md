@@ -71,8 +71,8 @@ abhi@github:~$ gh stats --user abhi13-tech
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=abhi13-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=abhi13-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhi13-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhi13-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
