@@ -1,101 +1,110 @@
-<h1 align="center">Hi, I'm Abhishek Reddy 👋</h1>
-<p align="center">
-  <strong>AI Engineer · LLM Systems · Applied ML · Backend/Infra</strong><br />
-  Building reliable AI products with RAG, agents, evals, and production APIs.
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=640&lines=abhishek+reddy;AI+Engineer+%C2%B7+LLM+Systems;building+ai+that+ships_" alt="abhishek reddy — AI Engineer · LLM Systems — building ai that ships" />
+
+</div>
+
+```text
+       __   __   _ _______    __          __
+ ___ _/ /  / /  (_<  /_  /___/ /____ ____/ /
+/ _ `/ _ \/ _ \/ // //_ <___/ __/ -_) __/ _ \
+\_,_/_.__/_//_/_//_/____/   \__/\__/\__/_//_/
+```
+
+```text
+abhi@github:~$ whoami
+
+  name      Abhishek Reddy
+  role      AI Engineer · LLM Systems · Applied ML
+  focus     RAG pipelines · agent orchestration · eval harnesses · production APIs
+  motto     systems that survive contact with production
+```
+
+```text
+abhi@github:~$ status
+```
+
+```python
+open_to_work = True   # AI Engineer / ML Engineer / Applied AI Engineer
+contact      = "adunooriabhishekreddy@gmail.com"
+```
 
 <p align="center">
-  <a href="mailto:adunooriabhishekreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/abhi13-tech"><img src="https://img.shields.io/badge/GitHub-abhi13--tech-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://huggingface.co/Abhisheka013"><img src="https://img.shields.io/badge/Hugging_Face-Abhisheka013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="mailto:adunooriabhishekreddy@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_AI%2FML_ENGINEER_ROLES-00C853?style=for-the-badge&labelColor=0d1117" alt="open to AI/ML engineer roles" /></a>
 </p>
+
+```text
+abhi@github:~$ ls ~/projects   # public — click through
+```
+
+| repo | lang | what it does |
+|---|---|---|
+| [`rag-diagnosis-research`](https://github.com/abhi13-tech/rag-diagnosis-research) | `python` | training-free RAG error diagnosis & stage localization research |
+| [`RAG_QA`](https://github.com/abhi13-tech/RAG_QA) | `python` | evaluation-driven, production-minded RAG Q&A — FastAPI, Docker, CI, ~80% coverage |
+| [`DevOps-Copilot`](https://github.com/abhi13-tech/DevOps-Copilot) | `python · ts` | AI root-cause analysis for GitHub Actions failures — FastAPI + Next.js |
+| [`GrokXQ`](https://github.com/abhi13-tech/GrokXQ) | `typescript` | AI dev suite on Groq/Grok — codegen, review, optimization, test generation |
+| [`Multi-Cloud-Terraform-Wireguard`](https://github.com/abhi13-tech/Multi-Cloud-Infrastructure-with-Terraform-Wireguard-VPN) | `hcl` | encrypted cross-cloud IaC across AWS, Azure & GCP |
+| [`SpaceExplorers`](https://github.com/abhi13-tech/SpaceExplorers) | `javascript` | 3D interactive space-weather learning platform for kids |
+
+```text
+abhi@github:~$ ls ~/lab   # private / closed-source
+drwx------  swarm/                 rust     high-performance multi-agent coding harness
+drwx------  spravato-plugin/       python   production clinical EHR plugin — treatment tracking + REMS fax pipeline (DrChrono)
+drwx------  caretaker-vs-connect/  ts       clinical vitals plugin for DrChrono
+drwx------  notchtunes/            swift    macOS notch music player for YouTube Music
+drwx------  ruview/                rust·py  WiFi CSI human sensing — pose estimation without cameras
+```
+
+```text
+abhi@github:~$ cat stack.txt
+
+  languages   python · typescript · rust · sql
+  ml          pytorch · hugging face · scikit-learn · lightgbm · catboost
+  llm         rag · agents · evals · tool use · langchain
+  backend     fastapi · postgresql · redis · sqlite
+  frontend    react · next.js · tailwind
+  infra       docker · github actions · terraform · aws · gcp · azure · fly.io
+```
+
+```text
+abhi@github:~$ gh stats --user abhi13-tech
+```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi13-tech&style=flat-square&color=0e75b6" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/abhi13-tech?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Engineer%20Roles-brightgreen?style=flat-square" alt="open to roles" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20Apps%20%7C%20RAG%20%7C%20Agents-blueviolet?style=flat-square" alt="focus" />
-</p>
-
----
-
-### About
-
-I build production-grade AI systems, from LLM agent orchestration and RAG pipelines to applied ML for valuation, compliance, and decision support. I care about systems that ship: observable, evaluated, reliable, and useful under real-world constraints.
-
-- 🔭 Currently working on agentic workflows, evaluation harnesses, and domain-specific LLM applications
-- 🧪 Recent work: real-estate valuation, DevOps AI copilots, RAG diagnosis research, multi-cloud infrastructure
-- 📚 Interests: retrieval systems, agent reliability, prompt engineering, observability for LLMs
-- 📫 Reach me: **adunooriabhishekreddy@gmail.com**
-
----
-
-### Recruiter Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-ML%20Engineer-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-3178C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Terraform%20%7C%20Cloud-7B42BC?style=flat-square" />
-</p>
-
-| Strength | Evidence |
-|---|---|
-| **LLM Applications** | RAG pipelines, agentic workflows, tool use, prompt/eval harnesses |
-| **Applied ML** | PyTorch, scikit-learn, LightGBM, CatBoost, Hugging Face |
-| **Production Backend** | FastAPI, Python, PostgreSQL, Redis, API design |
-| **Full-Stack Delivery** | React, Next.js, TypeScript, Tailwind, product UI |
-| **Infra / DevOps** | Docker, GitHub Actions, Terraform, AWS/Azure/GCP concepts |
-
----
-
-### Featured Projects
-
-- **🧠 RAG Diagnosis Research** — Training-free RAG error diagnosis and stage localization research.
-- **🛠️ DevOps Copilot** — FastAPI + Next.js app that ingests GitHub Actions logs for AI root-cause analysis and fix suggestions.
-- **🌐 Multi-Cloud Infrastructure with Terraform + Wireguard** — Modular IaC across AWS, Azure, and GCP with encrypted cross-cloud communication.
-- **🖼️ DreamLayer** — Diffusion model benchmarking with reproducible evals, seeds, and metrics.
-- **⚡ Electric Poles and Wires Detection** — Computer vision project for infrastructure detection.
-
----
-
-### Tech Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhi13-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi13-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=abhi13-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=abhi13-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi13-tech&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhi13-tech&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="contribution streak" />
 </p>
 
----
+```text
+abhi@github:~$ ./contribution_snake
+```
 
-### Currently
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi13-tech/abhi13-tech/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/abhi13-tech/abhi13-tech/output/github-snake.svg" />
+  </picture>
+</p>
 
-- 🎯 Open to **AI Engineer / ML Engineer / Applied AI Engineer** roles
-- ✍️ Building eval harnesses for agent reliability
-- 🤝 Happy to chat about LLM systems, retrieval, applied ML, and production AI
+```text
+abhi@github:~$ ping abhi
+```
 
-> *"Make it work, make it right, make it observable."*
+<p align="center">
+  <a href="mailto:adunooriabhishekreddy@gmail.com"><img src="https://img.shields.io/badge/email-adunooriabhishekreddy@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00C853&labelColor=0d1117&color=161b22" alt="email" /></a>
+  <a href="https://huggingface.co/Abhisheka013"><img src="https://img.shields.io/badge/hugging_face-Abhisheka013-0d1117?style=flat-square&logo=huggingface&labelColor=0d1117&color=161b22" alt="hugging face" /></a>
+  <a href="https://github.com/abhi13-tech"><img src="https://img.shields.io/badge/github-abhi13--tech-0d1117?style=flat-square&logo=github&logoColor=00C853&labelColor=0d1117&color=161b22" alt="github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi13-tech&style=flat-square&color=00C853&label=profile+views" alt="profile views" />
+</p>
+
+```text
+abhi@github:~$ exit
+logout
+```
