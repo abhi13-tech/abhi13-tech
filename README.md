@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=640&lines=abhishek+reddy;AI+Engineer+%C2%B7+LLM+Systems;building+ai+that+ships_" alt="abhishek reddy — AI Engineer · LLM Systems — building ai that ships" />
+<img src="https://raw.githubusercontent.com/abhi13-tech/abhi13-tech/main/assets/hero.svg" alt="abhishek reddy — AI Engineer · LLM Systems — building ai that ships" />
 
 </div>
 
