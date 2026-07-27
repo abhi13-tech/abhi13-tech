@@ -71,12 +71,12 @@ abhi@github:~$ gh stats --user abhi13-tech
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhi13-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhi13-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/abhi13-tech/abhi13-tech/output/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/abhi13-tech/abhi13-tech/output/top-langs.svg" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhi13-tech&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhi13-tech&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&disable_animations=true" alt="contribution streak" />
 </p>
 
 ```text
